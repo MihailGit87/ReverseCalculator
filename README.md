@@ -1,3 +1,2 @@
-# firstPrograms
-My first programs
-Мои первые программы
+# ReverseCalculator
+Производит Матеиатические действия над арабскими и римскими цифрами.
